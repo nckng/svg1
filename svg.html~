@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>
+      Hi
+    </title>
+  </head>
+  <body>
+    <svg id="canvas" height="600" width="600" xmlns="http://www.w3.org/2000/svg" style="border:1px solid;">
+    </svg>
+  <script src="stuff1.js"></script>
+</html>
